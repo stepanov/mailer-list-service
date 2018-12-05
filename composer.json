@@ -1,9 +1,9 @@
 {
-    "name": "laravel/laravel",
+    "name": "mailer-list-service",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Mailer List Service",
     "keywords": [
-        "framework",
+        "mailer",
         "laravel"
     ],
     "license": "MIT",
